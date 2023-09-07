@@ -1,5 +1,21 @@
-# 💫 About Me:
-🔭 I’m currently working on Web development<br><br>🌱 I’m currently learning HTML, CSS, JavaScript<br><br>📫 How to reach me: snikdhendupramanik@gmail.com
+<h1 align="center">Hello World! 👋</h1>
+<h2 align="center">I am Snikdhendu Pramanik. Currently pursuing B.TECH in CSE at Techno Main Salt Lake.</h2>
+
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=snikdhendu&icon=2&color=11" alt="Profile Count">
+  </a>
+</p>
+
+## 💫 About Me:
+
+🔭 **I’m currently working on Web development**
+
+🌱 **I’m currently learning HTML, CSS, JavaScript**
+
+📫 **How to reach me:** [snikdhendupramanik@gmail.com](mailto:snikdhendupramanik@gmail.com)
+
 
 
 ## 🌐 Socials:
@@ -25,7 +41,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=snikdhendu&icon=2&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
