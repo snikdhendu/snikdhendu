@@ -2,11 +2,7 @@
 <h2 align="center">I am Snikdhendu Pramanik. Currently pursuing B.TECH in CSE at Techno Main Salt Lake.</h2>
 
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=snikdhendu&icon=2&color=11" alt="Profile Count">
-  </a>
-</p>
+
 
 ## 💫 About Me:
 
