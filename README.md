@@ -1,6 +1,6 @@
 
   <h1 align="center">Hi👋, I'm Snikdhendu Pramanik</h1>
-<h2 align="center">A Fullstack Developer, Currently pursuing B.TECH in CSE at Techno Main Salt Lake.</h2>
+
 
 
 ## 💫 About Me:
